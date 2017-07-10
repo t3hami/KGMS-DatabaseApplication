@@ -1,0 +1,19 @@
+c:\users\muhammad tehami\documents\visual studio 2012\Projects\KGMS Database Application\KGMS Database Application\bin\Debug\KGMS Database Application.exe.config
+c:\users\muhammad tehami\documents\visual studio 2012\Projects\KGMS Database Application\KGMS Database Application\obj\Debug\KGMS Database Application.csprojResolveAssemblyReference.cache
+c:\users\muhammad tehami\documents\visual studio 2012\Projects\KGMS Database Application\KGMS Database Application\obj\Debug\KGMS_Database_Application.Form1.resources
+c:\users\muhammad tehami\documents\visual studio 2012\Projects\KGMS Database Application\KGMS Database Application\obj\Debug\KGMS_Database_Application.Properties.Resources.resources
+c:\users\muhammad tehami\documents\visual studio 2012\Projects\KGMS Database Application\KGMS Database Application\obj\Debug\KGMS Database Application.csproj.GenerateResource.Cache
+c:\users\muhammad tehami\documents\visual studio 2012\Projects\KGMS Database Application\KGMS Database Application\bin\Debug\KGMS Database Application.exe
+c:\users\muhammad tehami\documents\visual studio 2012\Projects\KGMS Database Application\KGMS Database Application\bin\Debug\KGMS Database Application.pdb
+c:\users\muhammad tehami\documents\visual studio 2012\Projects\KGMS Database Application\KGMS Database Application\obj\Debug\KGMS Database Application.exe
+c:\users\muhammad tehami\documents\visual studio 2012\Projects\KGMS Database Application\KGMS Database Application\obj\Debug\KGMS Database Application.pdb
+C:\Users\Muhammad Tehami\documents\visual studio 2012\Projects\KGMS Database Application\KGMS Database Application\obj\Debug\KGMS_Database_Application.MainMenu.resources
+C:\Users\Muhammad Tehami\documents\visual studio 2012\Projects\KGMS Database Application\KGMS Database Application\obj\Debug\KGMS_Database_Application.Vendor.resources
+C:\Users\Muhammad Tehami\documents\visual studio 2012\Projects\KGMS Database Application\KGMS Database Application\obj\Debug\KGMS_Database_Application.Emploee.resources
+C:\Users\Muhammad Tehami\documents\visual studio 2012\Projects\KGMS Database Application\KGMS Database Application\obj\Debug\KGMS_Database_Application.CreateSalesOrder.resources
+C:\Users\Muhammad Tehami\documents\visual studio 2012\Projects\KGMS Database Application\KGMS Database Application\obj\Debug\KGMS_Database_Application.SearchSalesOrder.resources
+C:\Users\Muhammad Tehami\documents\visual studio 2012\Projects\KGMS Database Application\KGMS Database Application\obj\Debug\KGMS_Database_Application.CreatePurchaseOrder.resources
+C:\Users\Muhammad Tehami\documents\visual studio 2012\Projects\KGMS Database Application\KGMS Database Application\obj\Debug\KGMS_Database_Application.SearchPurchaseOrder.resources
+C:\Users\Muhammad Tehami\documents\visual studio 2012\Projects\KGMS Database Application\KGMS Database Application\obj\Debug\KGMS_Database_Application.InvoiceReceivable.resources
+C:\Users\Muhammad Tehami\documents\visual studio 2012\Projects\KGMS Database Application\KGMS Database Application\obj\Debug\KGMS_Database_Application.InvoicePayable.resources
+C:\Users\Muhammad Tehami\Documents\Visual Studio 2012\Projects\KGMS Database Application\KGMS Database Application\obj\Debug\KGMS_Database_Application.NoticeBoard.resources
