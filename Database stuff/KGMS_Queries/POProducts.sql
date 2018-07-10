@@ -1,0 +1,1 @@
+create Table POProducts(POPID int identity(1,1) Not Null, POID varchar(20) Not Null, PID varchar(20) Not Null, POPQuantity int Not Null, Primary Key(POPID), Foreign Key(POID) References PO(POID), Foreign Key(PID) References Products(PID));

@@ -1,0 +1,1 @@
+Create table SO(SOID varChar(20) Not Null, CustomerName varchar(20) Not Null, SODate Date Not Null, Total int Not Null, CustomerPhone varchar(20), CustomerAddress varchar(100), GoodsDelivered varchar(10) Null, SOStatus varchar(10) Null, Primary Key(SOID));

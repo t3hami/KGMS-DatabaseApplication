@@ -1,0 +1,1 @@
+create Table InvoiceReceivable(IRID int identity(1,1) Not Null, DCID varchar(20) Not Null, IRDate Date Not Null, Primary Key(IRID), Foreign Key(DCID) References DC(DCID));

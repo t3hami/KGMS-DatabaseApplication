@@ -1,0 +1,1 @@
+create Table InvoicePayable(IPID int identity(1,1) Not Null, GRNID varchar(20) Not Null, IPDate Date Not Null, Primary Key(IPID), Foreign Key(GRNID) References GRN(GRNID));

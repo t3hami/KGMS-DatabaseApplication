@@ -1,0 +1,1 @@
+create Table GRN(GRNID varchar(20) Not Null, POID varchar(20) Not Null, GRDate Date Null, SNO int Not Null, Primary Key(GRNID), Foreign Key(POID) References PO(POID));

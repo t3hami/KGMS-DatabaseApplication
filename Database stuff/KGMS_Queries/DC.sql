@@ -1,0 +1,1 @@
+create Table DC(DCID varchar(20) Not Null, SOID varchar(20) Not Null, DCDate Date Null, SNO int Not Null, Primary Key(DCID), Foreign Key(SOID) References SO(SOID));

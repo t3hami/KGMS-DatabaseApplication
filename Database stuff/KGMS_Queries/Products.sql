@@ -1,0 +1,1 @@
+create Table Products(PID varchar(20) Not Null, PName varchar(50) Null, PQuantity int Not Null, PurchasePrice int Null, SalesPrice int Null, Primary Key(PID));

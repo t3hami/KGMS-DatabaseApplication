@@ -1,0 +1,1 @@
+create Table SOProducts(SOPID int identity(1,1) Not Null, SOID varchar(20) Not Null, PID varchar(20) Not Null, SOPQuantity int Not Null, Primary Key(SOPID), Foreign Key(SOID) References SO(SOID), Foreign Key(PID) References Products(PID));
